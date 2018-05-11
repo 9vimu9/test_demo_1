@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    welcome master Laravel
+                    Welcome Laravel
 
 
                 <div class="links">
